@@ -23,7 +23,5 @@ ALASAN 2024 PILIHAN TERBAIK:
 
 2025 MASIH PROBLEMATIC:
 Avg rating turun (3.09)
-
 Fewer employees (mungkin ada data loss setelah cleaning)
-
 Fewer high performers (168 vs 196)
