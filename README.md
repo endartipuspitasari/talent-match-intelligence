@@ -7,3 +7,9 @@ Dengan fully cleaned dataset, kita akan dapat:
 ✅ Reliable statistical significance
 ✅ Credible pattern discovery
 ✅ Defensible Success Formula
+
+BENEFITS LEFT JOIN SETELAH CLEANING:
+✅ Maintain semua employees di analysis
+✅ Handle missing assessments secara graceful
+✅ Accurate averages (hitung yang ada data saja)
+✅ Prevent data loss dari INNER JOIN
