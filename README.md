@@ -1,6 +1,23 @@
 # talent-match-intelligence
 Talent Match Intelligence System - Data Analyst Case Study 2025
 
+[START] 
+    │
+    ▼
+VERIFY CLEAN DATA ✅
+    │
+    ▼
+IDENTIFY BEST YEAR 🎯 
+    │
+    ▼
+DEFINE ELITE CRITERIA 🏆
+    │
+    ▼
+COMPREHENSIVE ANALYSIS 📈
+    │
+    ▼
+SUCCESS FORMULA 🧠
+
 
 Dengan fully cleaned dataset, kita akan dapat:
 ✅ Accurate correlation analysis
