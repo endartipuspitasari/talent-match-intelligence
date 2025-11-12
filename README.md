@@ -1,6 +1,8 @@
 # talent-match-intelligence
 Talent Match Intelligence System - Data Analyst Case Study 2025
 
+Urutan Queries dilihat dari urutan upload file sql
+
 [START] 
     │
     >
