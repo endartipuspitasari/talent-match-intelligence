@@ -25,11 +25,13 @@ Dengan fully cleaned dataset, kita akan dapat:
 ✅ Credible pattern discovery
 ✅ Defensible Success Formula
 
+
 BENEFITS LEFT JOIN SETELAH CLEANING:
 ✅ Maintain semua employees di analysis
 ✅ Handle missing assessments secara graceful
 ✅ Accurate averages (hitung yang ada data saja)
 ✅ Prevent data loss dari INNER JOIN
+
 
 ALASAN 2024 PILIHAN TERBAIK:
 ✅ HIGHEST AVERAGE RATING (3.19)
@@ -37,6 +39,7 @@ ALASAN 2024 PILIHAN TERBAIK:
 ✅ GOOD HIGH PERFORMER COUNT (196 - tied highest)
 ✅ DATA QUALITY (setelah cleaning, no anomalies)
 ✅ BUSINESS RELEVANCE (most recent reliable year)
+
 
 2025 MASIH PROBLEMATIC:
 Avg rating turun (3.09)
