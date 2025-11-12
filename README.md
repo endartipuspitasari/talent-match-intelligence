@@ -3,19 +3,19 @@ Talent Match Intelligence System - Data Analyst Case Study 2025
 
 [START] 
     │
-    ▼
+    >
 VERIFY CLEAN DATA ✅
     │
-    ▼
+    >
 IDENTIFY BEST YEAR 🎯 
     │
-    ▼
+    >
 DEFINE ELITE CRITERIA 🏆
     │
-    ▼
+    >
 COMPREHENSIVE ANALYSIS 📈
     │
-    ▼
+    >
 SUCCESS FORMULA 🧠
 
 
